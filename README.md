@@ -33,6 +33,7 @@ Some open source (or partial OSS) EIT hardwares:
   - [ScouseTom](https://github.com/EIT-team/ScouseTom). From **EIT-team**.
   - [OpenEIT/EIT_EE](https://github.com/OpenEIT/EIT_EE). From **OpenEIT**.
   - [aorbe/eit](https://github.com/aorbe/eit). *Note: last update 2020.*
+  - [EIT-kit_open-source](https://github.com/HCIELab/EIT-kit_open-source).
 
 ## EIT Imaging Algorithms
 
@@ -72,7 +73,8 @@ EIT/MIT applications, and datasets.
   - [EIT-MPhys-Project](https://github.com/ivo53/EIT-MPhys-Project). This project presents a novel Electrode Selection Algorithm (ESA) for use in Electrical Impedance Tomography (EIT) on 2-dimensional samples.
   - [Stroke_EIT_Dataset](https://github.com/EIT-team/Stroke_EIT_Dataset). This Multifrequency Electrical Impedance Tomography (EIT) data was collected as part of clinical trial in collaboration with the Hyper Acute Stroke unit (HASU) at University College London Hospital (UCLH). From **EIT-team**.
   - [OpenEIT](https://github.com/OpenEIT/OpenEIT). Python based dashboard for real-time Electrical Impedance Tomography including image reconstruction using Back Projection, Graz Consensus and Gauss Newton methods.
-  - [ML-EIT-Graphene](https://github.com/AdamCoxson/ML-EIT-Graphene). 
+  - [ML-EIT-Graphene](https://github.com/AdamCoxson/ML-EIT-Graphene).
+  - [EIT-kit](https://dl.acm.org/doi/fullHtml/10.1145/3472749.3474758). An Electrical Impedance Tomography Toolkit for Health and Motion Sensing.
 
 ## Community
 
